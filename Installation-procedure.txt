@@ -5,3 +5,33 @@ How to run BTS PenTesting Lab?
 2. Extract the zip file into the htdocs folder (make sure to rename the folder to "btslab").
 3. Open the "http://localhost/btslab/setup.php" url in your browser.
 4. Click the Setup.
+
+Features
+Has plenty of latest web application vulnerabilities
+Easy to Install
+It will help you to learn web application hacking
+A real vulnerable web application
+You can use any pentesting/hacking tools to test the vulnerability
+Contains challenges that will improve your bug finding skills
+Access the Admin panel at "/btslab/admin/". The default Admin Login Credentials: username 'admin' and password 'password'
+
+https://sourceforge.net/projects/btslab/
+Description
+BTS PenTesting Lab is an open source vulnerable web application, created by Cyber Security & Privacy Foundation (www.cysecurity.org ). It can be used to learn about many different types of web application vulnerabilities. 
+
+Currently, the app contains the following types of vulnerabilities:
+*SQL Injection
+*XSS(includes Flash Based xss)
+*CSRF
+*Clickjacking
+*SSRF
+*File Inclusion
+* Code Execution
+*Insecure Direct Object Reference
+*Unrestricted File Upload vulnerability
+*Open URL Redirection
+*Server Side Includes(SSI) Injection
+and more...
+
+Java version of this application can be found here:
+https://sourceforge.net/p/javavulnerablelab/
